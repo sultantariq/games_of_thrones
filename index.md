@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## This is a test of github pages
 
 You can use the [editor on GitHub](https://github.com/mrweissguy/games_of_thrones/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
