@@ -1,37 +1,41 @@
-## Games of thrones
+## Social Graphs and interaction
 
-You can use the [editor on GitHub](https://github.com/mrweissguy/games_of_thrones/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+There is no doubt that Game of Thrones is one of the most iconic shows in recent years, it attracted broad attention and favorite dialogue topics among people, we are no exception. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The fancy visual effect is not the only one elements made the show popular, the twisted story plot, complex character relationships and the unknown between different houses all made the show interesting to watch and entertaining. So as fans of the show, the group decide to work on the data from Game of Thrones. 
 
-### Markdown
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=s733YddPDuM" frameborder="0" allowfullscreen></iframe>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## What's in here? 
 
-- Bulleted
-- List
+* The visual representation of the complex character relationship
+* The basic statistical information about characters 
+* The hidden connections between different houses 
+* The sentiment changes through out the entire show 
+* The most commonl;y used words in the different season 
+* The onscreen time for different characters 
+* And one surprise! 
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Where is our data comes from?
+### Not only huamn in the show? 
 
-[Link](url) and ![Image](src)
-```
+We used the XML tree method downloaded the entire page from fandom Game of Thrones page. In the wiki page there are not only the information for all characters but also information about different location, and animals appeared in the show. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Numbers are boring? How about graphs? 
+### Basic statistics and the network analysis 
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mrweissguy/games_of_thrones/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Wait, there is another network?  
+### Social network and community analysis 
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Happy endings? Nah, not for this show
+### Sentiment analysis 
+
+
+## Wow, word cloud looks amazing! 
+### Word cloud analysis   
+
