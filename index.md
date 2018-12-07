@@ -4,11 +4,15 @@ There is no doubt that Game of Thrones is one of the most iconic shows in recent
 
 The fancy visual effect is not the only one elements made the show popular, the twisted story plot, complex character relationships and the unknown between different houses all made the show interesting to watch and entertaining. So as fans of the show, the group decide to work on the data from Game of Thrones. 
 
+
+
+```html
  <div class="youtubecontainer">
             <iframe src="https://www.youtube.com/watch?v=s733YddPDuM" 
             frameborder="0" allowfullscreen class="video"></iframe>
             </div>
-            
+```
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=s733YddPDuM
 " target="_blank"><img src="http://img.youtube.com/vi/s733YddPDuM/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
@@ -44,3 +48,5 @@ We used the XML tree method downloaded the entire page from fandom Game of Thron
 ## Wow, word cloud looks amazing! 
 ### Word cloud analysis   
 
+## Want to know more? 
+### Sure, just download it here!  
