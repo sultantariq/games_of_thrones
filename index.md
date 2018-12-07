@@ -4,8 +4,10 @@ There is no doubt that Game of Thrones is one of the most iconic shows in recent
 
 The fancy visual effect is not the only one elements made the show popular, the twisted story plot, complex character relationships and the unknown between different houses all made the show interesting to watch and entertaining. So as fans of the show, the group decide to work on the data from Game of Thrones. 
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/s733YddPDuM)
-
+ <div class="youtubecontainer">
+            <iframe src="https://www.youtube.com/watch?v=s733YddPDuM" 
+            frameborder="0" allowfullscreen class="video"></iframe>
+            </div>
 
 
 ## What's in here? 
