@@ -1,11 +1,10 @@
-## Social Graphs and interaction
+## Social Graphs and Interaction
 
 There is no doubt that Game of Thrones is one of the most iconic shows in recent years, it attracted broad attention and favorite dialogue topics among people, we are no exception. 
 
 The fancy visual effect is not the only one elements made the show popular, the twisted story plot, complex character relationships and the unknown between different houses all made the show interesting to watch and entertaining. So as fans of the show, the group decide to work on the data from Game of Thrones. 
 
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=s733YddPDuM" frameborder="0" allowfullscreen></iframe>
-
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/s733YddPDuM/0.jpg)](http://www.youtube.com/watch?v=s733YddPDuM)
 
 
 ## What's in here? 
